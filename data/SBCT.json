@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-05-29T18:15:14.762080+00:00",
+  "updated_at": "2026-05-29T22:40:15.361022+00:00",
   "data_referencia": "2026-05-29",
   "airport_icao": "SBCT",
   "airport_name": "Curitiba",
   "airport_info": {
-    "sg_aerodromo_icao": "SBCT",
-    "sg_aerodromo_iata": "CWB",
-    "descricao": "AFONSO PENA - CURITIBA - PR - BRASIL"
+    "sg_aerodromo_icao": "SBRB",
+    "sg_aerodromo_iata": "RBR",
+    "descricao": "PLÁCIDO DE CASTRO - RIO BRANCO - AC - BRASIL"
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
